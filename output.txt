@@ -1,0 +1,4 @@
+✨  Built successfully, built project size is 13 KiB.
+🌀  Using namespace for Workers Site "__demo-site-workers_sites_assets"
+✨  Success
+✨  Successfully published your script to https://demo-site.nats.workers.dev
